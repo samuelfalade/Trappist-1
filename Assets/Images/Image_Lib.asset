@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Image_Lib
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5710668945214999364
+  m_GuidHigh: 15937540768494403998
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4649576704030633755
+      m_GuidHigh: 11418802383385138358
+    m_SerializedTextureGuid:
+      m_GuidLow: 9555003235625474281
+      m_GuidHigh: 7686365629663704665
+    m_Size: {x: 0.01, y: 0.014276528}
+    m_SpecifySize: 1
+    m_Name: IT_Sun
+    m_Texture: {fileID: 2800000, guid: 772a18e930d1849a5976e0e9d074ab6a, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4900541043384385330
+      m_GuidHigh: 3138012263171991477
+    m_SerializedTextureGuid:
+      m_GuidLow: 297449853710963266
+      m_GuidHigh: 5955456678330362312
+    m_Size: {x: 0.01, y: 0.013518518}
+    m_SpecifySize: 1
+    m_Name: IT_Mercury
+    m_Texture: {fileID: 2800000, guid: e4ef1242c1100420c8e91bab4b08a652, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4686025531925614639
+      m_GuidHigh: 1146436029861508252
+    m_SerializedTextureGuid:
+      m_GuidLow: 10717649075202765040
+      m_GuidHigh: 5629458275816529850
+    m_Size: {x: 0.01, y: 0.013509234}
+    m_SpecifySize: 1
+    m_Name: IT_Venus
+    m_Texture: {fileID: 2800000, guid: a2c130f0bd0c94bcba5fedc779da1f4e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5065146590648232877
+      m_GuidHigh: 13830243422613034411
+    m_SerializedTextureGuid:
+      m_GuidLow: 17640083752811570489
+      m_GuidHigh: 17766292005004465448
+    m_Size: {x: 0.01, y: 0.013682865}
+    m_SpecifySize: 1
+    m_Name: IT_Earth
+    m_Texture: {fileID: 2800000, guid: 467925392ab6f4ce285527de728c8ef6, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5098330521498695580
+      m_GuidHigh: 15691637883866812546
+    m_SerializedTextureGuid:
+      m_GuidLow: 10718696275868765765
+      m_GuidHigh: 1192123767078788505
+    m_Size: {x: 0.01, y: 0.013496144}
+    m_SpecifySize: 1
+    m_Name: IT_Moon
+    m_Texture: {fileID: 2800000, guid: 0a75ce45757994c0991d080140468b10, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5049141596284049108
+      m_GuidHigh: 722504183100673719
+    m_SerializedTextureGuid:
+      m_GuidLow: 13034366874205463151
+      m_GuidHigh: 11631509797275497115
+    m_Size: {x: 0.01, y: 0.013523315}
+    m_SpecifySize: 1
+    m_Name: IT_Mars
+    m_Texture: {fileID: 2800000, guid: f122a26f5f9cb4e39bf214c4886c6ba1, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5525882667334049512
+      m_GuidHigh: 2739135015477455034
+    m_SerializedTextureGuid:
+      m_GuidLow: 15325173932229682770
+      m_GuidHigh: 14393031524620390523
+    m_Size: {x: 0.01, y: 0.013875969}
+    m_SpecifySize: 1
+    m_Name: IT_Jupiter
+    m_Texture: {fileID: 2800000, guid: bfa06652f47ed4ad7b50ff01ea51bec7, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5264412787254667387
+      m_GuidHigh: 8043005876462810252
+    m_SerializedTextureGuid:
+      m_GuidLow: 11866713659430623921
+      m_GuidHigh: 7213409740588118906
+    m_Size: {x: 0.01, y: 0.013562005}
+    m_SpecifySize: 1
+    m_Name: IT_Saturn
+    m_Texture: {fileID: 2800000, guid: 61a35ab10933a4af7af318d7f02d1b64, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5554314868657613318
+      m_GuidHigh: 17838228995064602800
+    m_SerializedTextureGuid:
+      m_GuidLow: 17600961555287019288
+      m_GuidHigh: 11818832586974362408
+    m_Size: {x: 0.01, y: 0.013580902}
+    m_SpecifySize: 1
+    m_Name: IT_Uranus
+    m_Texture: {fileID: 2800000, guid: d8308f182d47f44328fb6a769eed04a4, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5004663080962314298
+      m_GuidHigh: 7800766950359908004
+    m_SerializedTextureGuid:
+      m_GuidLow: 16452944398301396485
+      m_GuidHigh: 7770253129532504810
+    m_Size: {x: 0.01, y: 0.013875969}
+    m_SpecifySize: 1
+    m_Name: IT_Neptune
+    m_Texture: {fileID: 2800000, guid: 4201fe0599c2e454eafaa6800d7cd56b, type: 3}
